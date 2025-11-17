@@ -51,7 +51,6 @@ export default function Hero() {
             >
               <FiMail size={24} />
             </a>
-
           </div>
         </motion.div>
 
