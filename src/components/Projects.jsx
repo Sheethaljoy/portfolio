@@ -6,31 +6,31 @@ const projects = [
     title: 'IIE Education Platform',
     description: 'Modern education platform with authentication, admin dashboard, payment integration, and secure file verification.',
     tech: ['React', 'CSS', 'Bootstrap', 'Node.js'],
-    image: '/src/assets/projects/desktop.gif',
+    image: './assets/projects/desktop.gif',
   },
   {
     title: 'tree.femme - Company Website',
     description: 'Modern IT company website built with React and Tailwind CSS, featuring an interactive UI and a dynamic contact form.',
     tech: ['React', 'Tailwind CSS'],
-    image: '/src/assets/projects/Comp 1.mp4',
+    image: './assets/projects/Comp 1.mp4',
   },
   {
     title: 'Aurix Business Corp - Corporate Website',
     description: 'Corporate business website built with React and Tailwind CSS, featuring a dynamic contact form and smooth, user-friendly interactions.',
     tech: ['React', 'Tailwind CSS'],
-    image: '/src/assets/projects/Comp 1_1.mp4',
+    image: './assets/projects/Comp 1_1.mp4',
   },
   {
     title: 'tree.femme - Portfolio Gallery',
     description: 'Elegant and responsive gallery website built with React, CSS, and Bootstrap, showcasing the company’s portfolio with a clean user experience.',
     tech: ['React', 'CSS', 'Bootstrap'],
-    image: '/src/assets/projects/2.mp4', 
+    image: './assets/projects/2.mp4', 
   },
   {
     title: 'Laundry Delivery App - Backend System',
     description: 'Developed the backend for a full-scale laundry delivery application, featuring secure authentication, user order management, staff dashboards, rider tracking, QR code verification, invoice generation, and real-time status updates. Built using Node.js, TypeScript, PostgreSQL, and Supabase for reliable, scalable performance.',
     tech: ['Node.js','Express.js','TypeScript', 'PostgreSQL'],
-    image: '/src/assets/projects/22.mp4', 
+    image: './assets/projects/22.mp4', 
   },
 ];
 

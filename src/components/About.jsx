@@ -21,7 +21,7 @@ export default function About() {
           >
             <div className="relative w-full h-80 rounded-2xl shadow-xl overflow-hidden">
               <img
-                src="/src/assets/images/me pic 3.png"
+                src="./assets/images/me pic 3.png"
               alt="Sheethal Joy - About"
               className="w-full h-full object-cover"
               onError={(e) => {

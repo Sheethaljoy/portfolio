@@ -64,7 +64,7 @@ export default function Hero() {
           <div className="relative w-80 h-80 md:w-96 md:h-96">
             <div className="absolute inset-0 bg-gradient-to-br from-blue-400 to-purple-500 rounded-full blur-2xl opacity-50"></div>
             <img
-              src="/src/assets/images/me pic1.png"
+              src="./assets/images/me pic1.png"
               alt="Sheethal Joy"
               className="relative w-full h-full object-cover rounded-full border-4 border-white dark:border-gray-800 shadow-2xl"
               onError={(e) => {
